@@ -1,7 +1,7 @@
 ---
 name: Customer Retention & Revenue Analysis
 tools: [Tableau, Data Visualisation, Exploratory Analysis]
-image: [https://public.tableau.com/static/images/J3/J3324MZT9/1.png](https://public.tableau.com/static/images/Cu/CustomerRetentionRevenueAnalysis/CustomerRetentionRevenueAnalysis/4_3.png)
+image: image: https://public.tableau.com/static/images/Cu/CustomerRetentionRevenueAnalysis/CustomerRetentionRevenueAnalysis/4_3.png
 description: Explored customer retention drivers and revenue trends across a 100K-row synthetic Amazon e-commerce dataset using Tableau.
 github_url: https://public.tableau.com/shared/J3324MZT9?:display_count=n&:origin=viz_share_link
 ---
